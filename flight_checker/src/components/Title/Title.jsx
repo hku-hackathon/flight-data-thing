@@ -3,7 +3,7 @@ import "./Title.css";
 
 const Title = () => {
     return (
-        <h1>Hong Kong Airport</h1>
+        <h1 className = "title">Hong Kong Airport</h1>
     )
 }
 
