@@ -1,0 +1,6 @@
+.template{
+    background: #FFFFFF;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
